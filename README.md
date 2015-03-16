@@ -1,0 +1,2 @@
+# gostory
+golang web
